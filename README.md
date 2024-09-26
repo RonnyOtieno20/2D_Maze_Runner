@@ -4,7 +4,6 @@ MazeRunner is a command-line adventure game where players navigate through proce
 
 ![MazeRunner Demo](maze-demo.gif)
 
-
 [View Project Landing Page](https://ronnyotieno20.github.io/2D_Maze_Runner/)
 ## Features
 
