@@ -1,5 +1,20 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-.pytest_cache/
+*.py[cod]
+*$py.class
+
+# Virtual environment
 venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Game save files
 *.save
